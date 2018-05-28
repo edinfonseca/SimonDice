@@ -1,0 +1,31 @@
+{
+  "name": "simondice",
+  "version": "0.1.0",
+  "description": "Juego de Simon Dice",
+  "main": "simon.js",
+  "dependencies": {
+    "sweetalert": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edinfonseca/SimonDice.git"
+  },
+  "keywords": [
+    "juego",
+    "simon",
+    "dice",
+    "edinfonseca",
+    "edin",
+    "fonseca"
+  ],
+  "author": "Edin Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edinfonseca/SimonDice/issues"
+  },
+  "homepage": "https://github.com/edinfonseca/SimonDice#readme"
+}
